@@ -9,6 +9,8 @@
             "text": "{{ product.vendor }}",
             "text_style": "uppercase"
           }
+
+          
         },
         "title": {
           "type": "title",
